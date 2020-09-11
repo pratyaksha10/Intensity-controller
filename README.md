@@ -1,1 +1,1 @@
-# Intensity-controller
+# Intensity-controller (inc - dec)
